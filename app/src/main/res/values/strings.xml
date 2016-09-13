@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicUIControls</string>
+    <string name="horse">horse</string>
+    <string name="cat">cat</string>
+    <string name="dog">dog</string>
+    <string name="select">select</string>
+</resources>
